@@ -49,8 +49,8 @@ To design and deploy **reliable, data-driven backend systems** that serve indust
 
 <!-- Showcase your top repositories here -->
 
-<a href="https://github.com/yourusername/yourproject1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject1" />
+<a href="https://github.com/yourusername/real-estate-platform">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=real-estate-platform" />
 </a>
 
 <a href="https://github.com/yourusername/yourproject2">
