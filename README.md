@@ -1,10 +1,75 @@
-- 👋 Hi, I’m @luquetperrin
-- 👀 I’m interested in Software Engineering, Data Engineering and Petroleum Engineering
-- 🌱 I’m currently learning the field of Software Engineering and Data Engineering to have some knowledge and work on projects that I have in mind
-- 💞️ I’m looking to collaborate on the implementation of tools to help production engineers excel in their field
-- 📫 How to reach me on LinkedIn or Email: https://www.linkedin.com/in/perrin-letembet-luquet-559647101/ or perrinletembet.luquet@gmail.com
+<!-- GitHub Profile README Template for Perrin Letembet-Luquet -->
 
-<!---
-luquetperrin/luquetperrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi there, I'm Perrin 👋</h1>
+
+<p align="center">
+  <strong>🚀 Well Performance Engineer | Junior Backend Developer | Aspiring Data Engineer</strong><br>
+  🎓 MSc in Data Engineering for AI (DSTI) – Starting Sept 2025<br>
+  🧑🏾‍💻 Currently learning at <strong>ALX Software Engineering Program</strong>
+</p>
+
+---
+
+## 🌱 About Me
+
+I'm a passionate and curious engineer currently transitioning from oil & gas operations into the world of data and backend development.
+
+- 🔧 I’m currently enrolled in the **ALX Software Engineering Program – Backend Track**
+- 🎓 Starting my MSc in **Data Engineering for Artificial Intelligence** at **DSTI, France** in Sept 2025
+- 🔄 My transition is inspired by a desire to build tools that solve real-world problems at scale
+- 🧠 What inspires me: practical tech that empowers people, systems that make decisions smarter, and building the digital foundations of tomorrow
+
+---
+
+## 🎯 My Vision
+
+To design and deploy **reliable, data-driven backend systems** that serve industries like **energy**, **infrastructure**, and **real estate** — and eventually lead my own **tech ventures** focused on Africa’s digital transformation.
+
+---
+
+## 💼 Current Focus
+
+- Learning: Python | Django | REST APIs | PostgreSQL
+- Exploring: Data pipelines | Cloud infrastructure | DevOps fundamentals
+- Working on: Backend mini-projects and RESTful APIs
+- Tools: Git, GitHub, CLI, Postman, VS Code
+
+---
+
+## 🛠 Projects I'm Interested In
+
+- Backend APIs for smart reporting and dashboards
+- Data collection & analytics platforms
+- Cloud-hosted applications (Render, Heroku, etc.)
+- Systems for real estate, energy, or public service digitalization
+
+---
+
+## 📌 Pinned Projects
+
+<!-- Showcase your top repositories here -->
+
+<a href="https://github.com/yourusername/yourproject1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject1" />
+</a>
+
+<a href="https://github.com/yourusername/yourproject2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourproject2" />
+</a>
+
+---
+
+## 📫 How to Reach Me
+
+- Email: <strong>perrinletembet.luquet@gmail.com</strong>
+- LinkedIn: <a href="https://www.linkedin.com/in/perrin-letembet-luquet-559647101">Perrin on LinkedIn</a>
+
+---
+
+## 🧠 Fun Fact
+
+I love building things that bring structure to complexity — from real-world wells to digital workflows.
+
+---
+
+<sub>✨ This README is part of my journey to becoming a full-fledged data engineer and backend specialist. Thanks for visiting!</sub>
